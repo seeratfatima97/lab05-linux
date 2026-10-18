@@ -1,0 +1,18 @@
+total 68
+drwxr-x--- 12 seeratfatima97 seeratfatima97 4096 Oct 18 19:16 .
+drwxr-xr-x  3 root           root           4096 Sep 12 13:33 ..
+-rw-------  1 seeratfatima97 seeratfatima97  777 Oct 10 16:48 .bash_history
+-rw-r--r--  1 seeratfatima97 seeratfatima97  220 Feb 13  2026 .bash_logout
+-rw-r--r--  1 seeratfatima97 seeratfatima97 3771 Feb 13  2026 .bashrc
+drwx------  2 seeratfatima97 seeratfatima97 4096 Sep 12 13:45 .cache
+-rw-rw-r--  1 seeratfatima97 seeratfatima97  191 Oct 18 19:14 .gitconfig
+drwx------  3 seeratfatima97 seeratfatima97 4096 Oct 12 07:37 .local
+-rw-r--r--  1 seeratfatima97 seeratfatima97  807 Feb 13  2026 .profile
+drwx------  2 seeratfatima97 seeratfatima97 4096 Oct 18 19:03 .ssh
+drwxrwxr-x  3 seeratfatima97 seeratfatima97 4096 Oct 12 04:56 Assignment01
+drwxrwxr-x  5 seeratfatima97 seeratfatima97 4096 Oct 10 14:24 CC
+drwxrwxr-x  3 seeratfatima97 seeratfatima97 4096 Oct 10 16:54 Gitea
+drwxrwxr-x  5 seeratfatima97 seeratfatima97 4096 Oct 18 19:17 lab05-linux
+drwxrwxr-x  2 seeratfatima97 seeratfatima97 4096 Sep 20 07:04 mylab
+drwxrwxr-x  3 seeratfatima97 seeratfatima97 4096 Oct 12 07:40 seeratfatima97.github.io
+drwx------  3 seeratfatima97 seeratfatima97 4096 Oct 11 08:50 snap
