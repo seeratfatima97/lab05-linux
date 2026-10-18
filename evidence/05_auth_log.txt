@@ -1,0 +1,15 @@
+2026-10-18T20:40:35.710845+00:00 ubuntu sudo: seeratfatima97 : TTY=/dev/pts/0 ; PWD=/home/seeratfatima97/lab05-linux ; USER=root ; COMMAND=/usr/sbin/adduser lab5user
+2026-10-18T20:40:36.062465+00:00 ubuntu groupadd[4561]: group added to /etc/group: name=lab5user, GID=1001
+2026-10-18T20:40:36.069856+00:00 ubuntu groupadd[4561]: group added to /etc/gshadow: name=lab5user
+2026-10-18T20:40:36.075011+00:00 ubuntu groupadd[4561]: new group: name=lab5user, GID=1001
+2026-10-18T20:40:36.120183+00:00 ubuntu useradd[4566]: new user: name=lab5user, UID=1001, GID=1001, home=/home/lab5user, shell=/bin/bash, from=/dev/pts/1
+2026-10-18T20:41:10.117114+00:00 ubuntu passwd[4577]: pam_unix(passwd:chauthtok): password changed for lab5user
+2026-10-18T20:42:24.472222+00:00 ubuntu chfn[4582]: changed user 'lab5user' information
+2026-10-18T20:42:26.858318+00:00 ubuntu gpasswd[4591]: members of group users set by root to seeratfatima97,lab5user
+2026-10-18T20:44:23.085828+00:00 ubuntu unix_chkpwd[4619]: password check failed for user (lab5user)
+2026-10-18T20:44:23.090112+00:00 ubuntu su: pam_unix(su-l:auth): authentication failure; logname=seeratfatima97 uid=1000 euid=0 tty=/dev/pts/0 ruser=seeratfatima97 rhost=  user=lab5user
+2026-10-18T20:44:25.253789+00:00 ubuntu su[4617]: FAILED SU (to lab5user) seeratfatima97 on pts/0
+2026-10-18T20:44:36.689855+00:00 ubuntu su[4629]: (to lab5user) seeratfatima97 on pts/0
+2026-10-18T20:44:36.706981+00:00 ubuntu su[4629]: pam_unix(su-l:session): session opened for user lab5user(uid=1001) by seeratfatima97(uid=1000)
+2026-10-18T20:45:16.188644+00:00 ubuntu su[4629]: pam_unix(su-l:session): session closed for user lab5user
+2026-10-18T20:45:32.463350+00:00 ubuntu sudo: seeratfatima97 : TTY=/dev/pts/0 ; PWD=/home/seeratfatima97/lab05-linux ; USER=root ; COMMAND=/usr/bin/grep lab5user /var/log/auth.log
